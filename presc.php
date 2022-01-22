@@ -114,7 +114,7 @@ $last=0;
 <table>
 <tr>
     <td align="right">Drugs</td>
-    <td><input type="text" id="search-box" size="30" autocomplete="off" name="drug" placeholder="Drugs" /><div id="suggesstion-box"></div></td>
+    <td><input type="text" id="search-box" size="31" autocomplete="off" name="drug" placeholder="Drugs" /><div id="suggesstion-box"></div></td>
 </tr>      
 <tr>
    <td align="right">Quantity</td>
