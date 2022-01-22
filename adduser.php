@@ -11,7 +11,7 @@
   background-color:#111;
   color: #FFFFFF;
   text-align: center;
-  font-size: 16px;
+  font-size: 17px;
   padding: 7px;
   width: auto;
   transition: all 0.5s;
