@@ -29,7 +29,7 @@
 .button span:after {
   content: '»';
   position: absolute;
-  opacity: 0;
+  opacity: 1;
   top: 0;
   right: -20px;
   transition: 0.5s;
