@@ -68,7 +68,7 @@ $no=$no+1;
 	border:hidden;
   display: inline-block;
   border-radius: 4px;
-  background-color:#096;
+  background-color:#097;
   color: #FFFFFF;
   text-align: center;
   font-size: 16px;
