@@ -12,7 +12,7 @@
   color: #FFFFFF;
   text-align: center;
   font-size: 17px;
-  padding: 7px;
+  padding: 8px;
   width: auto;
   transition: all 0.5s;
   cursor: pointer;
