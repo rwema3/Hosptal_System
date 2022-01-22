@@ -89,7 +89,7 @@ if(!$_SESSION['valid_user']){
         </tr>
         <tr>
           <td>Password</td>
-          <td><input type="password" style="border: 1px solid #070;  height:30px; padding-left:30px;  font-size:16px;" name="pw" size="30" /></td>
+          <td><input type="password" style="border: 1px solid #070;  height:30px; padding-left:31px;  font-size:16px;" name="pw" size="30" /></td>
         </tr>
         <tr>
           <td>Confirm Password </td>
