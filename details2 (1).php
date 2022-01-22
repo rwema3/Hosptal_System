@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="refresh" content="">
-<!-- <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon"/> -->
+<!-- <link rel="shortcut icon" href="img/link.ico" type="image/x-icon"/> -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link href="css.css" rel="stylesheet" type="text/css" media="screen" />
 <!--popup iframe settings -->
@@ -16,7 +16,7 @@
 <?php 
 session_start();
 // if(!$_SESSION['valid_user']){
-//     header("Location: login.php");
+//     header("Location: connection.php");
 //     exit;
 // } 
 ?>
