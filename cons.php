@@ -23,12 +23,12 @@ if(!$_SESSION['valid_user']){
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Untitled Document</title>
 <style>
-body{width:610px;}
+body{width:611px;}
 .frmSearch {border: 1px solid #a8d4b1;background-color: #c6f7d0;margin: 2px 0px;padding:40px;border-radius:4px;}
 #country-list{float:left;list-style:none;margin-top:-3px;padding:0;width:550px;position: absolute;}
 #country-list li{padding: 10px; background: #f0f0f0; border-bottom: #bbb9b9 1px solid;}
 #country-list li:hover{background:#ece3d2;cursor: pointer;}
-#search-box{padding: 10px;border: #a8d4b1 1px solid;border-radius:4px;}
+#search-box{padding: 11px;border: #a8d4b1 1px solid;border-radius:4px;}
 .button {border:hidden;display: inline-block; border-radius: 4px;background-color:#096;color: #FFFFFF;text-align: center;font-size: 16px;padding: 10px;  width: auto;transition: all 0.5s;cursor: pointer;margin: 2px;}
 .button span {cursor: pointer;display: inline-block;position: relative;transition: 0.5s;}
 .button span:after {content: 'ADD';position: absolute;opacity: 0;top: 0;right: -20px; transition: 0.5s;}
