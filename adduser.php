@@ -40,7 +40,7 @@
 }
 
 .button:hover span:after {
-  opacity: 1;
+  opacity: 2;
   right: 0;
 }
 </style>
