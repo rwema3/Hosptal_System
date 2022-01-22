@@ -11,7 +11,7 @@
           <table bgcolor="#CCC">
             <form action="records.php" method="post">
               <tr>
-                <!-- <td class="text-dark"><strong>&nbsp;CLIENT'S CODE </strong></td>
+                <!-- <td clalinktd>
                 <td><input class="form-control" type="text" style="padding-left:30px;  font-size:16px;" name="client" size="30" /></td>
                 <td></td>
                 <td><button class="button" ><span>Ok </span></button></td> -->
