@@ -22,7 +22,7 @@ $query=mysqli_query($link,"SELECT * FROM users WHERE username='$username' AND pa
 				if($user2==NULL)
 				{
 					$null='yes';
-					header("Location: login.php"); // Modify to go to the page you would like
+					header("Location: login.php"); // - to go to the page you would like
                     exit;					
 				}
 				
