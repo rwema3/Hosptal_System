@@ -32,7 +32,7 @@ $query=mysqli_query($link,"SELECT * FROM clients WHERE client_id='$code1' AND do
 }
 // else
 // {
-// 	include"index.php";
+// 	include"LINK.php";
 // }
 
 
