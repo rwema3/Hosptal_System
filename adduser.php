@@ -36,7 +36,7 @@
 }
 
 .button:hover span {
-  padding-right: 25px;
+  padding-right: 26px;
 }
 
 .button:hover span:after {
