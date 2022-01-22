@@ -132,7 +132,7 @@
                   //                       }
                   //                           }
                                             
-                  //                       if($typ=='TM')
+                  //                       if($typ=='link one')
                   //                                       {
                   // $defpe = "SELECT * FROM orders WHERE client_id=$id AND item='$it' AND order_id='$oid' ORDER BY time DESC ";
                   // $retvalpe = mysqli_query($link,$defpe);
