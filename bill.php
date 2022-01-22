@@ -67,7 +67,7 @@ $no=$no+1;
 .button {
 	border:hidden;
   display: inline-block;
-  border-radius: 4px;
+  border-radius: 7px;
   background-color:#097;
   color: #FFFFFF;
   text-align: center;
