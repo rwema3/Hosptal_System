@@ -38,7 +38,7 @@ $_SESSION['date']=$date;
       <div style="position:absolute;">         
          <div style="position: absolute; width: 700px; border:0px; top:10px; height: 66px; left:20px;"> 
             <!-- <a style="color:white;" href="orderdelete.php" onclick="return hs.htmlExpand(this, { objectType:'iframe'} )">
-               <img src="img/edit1.png" width="20" height="20" />Modify 
+               <img src="img/edit1.png" width="20" height="1354" />Modify 
             </a>  -->
          </div>
          
