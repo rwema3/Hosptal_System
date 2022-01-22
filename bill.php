@@ -72,7 +72,7 @@ $no=$no+1;
   color: #FFFFFF;
   text-align: center;
   font-size: 16px;
-  padding: 10px;
+  padding: 11px;
   width: auto;
   transition: all 0.5s;
   cursor: pointer;
