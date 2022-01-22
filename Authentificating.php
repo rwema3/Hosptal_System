@@ -38,7 +38,7 @@ $query=mysqli_query($link,"SELECT * FROM users WHERE username='$username' AND pa
 					{
 					$_SESSION['veri']='Verification';
 					}															
-					header("Location: home.php"); // Modify to go to the page you would like
+					header("Location: home.php"); // M-
                     exit; 										
 				}																									
 }
