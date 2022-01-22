@@ -23,7 +23,7 @@
   cursor: pointer;
   display: inline-block;
   position: relative;
-  transition: 0.5s;
+  transition: 0.6s;
 }
 
 .button span:after {
