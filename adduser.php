@@ -58,7 +58,7 @@ if(!$_SESSION['valid_user']){
     <div  style="width: 548px; height: 560px; box-shadow: 0px 0px 0px 0px #000; border: 0px solid #09F; overflow: auto; position: absolute; background-color: #777; left: 1px; top: 11px;">
     <center>
     <br><br><br><br>
-      <table width="0" border="0" cellspacing="10" cellpadding="0">
+      <table width="0" border="1" cellspacing="10" cellpadding="0">
       <form action="adduser.php" method="post">
         <tr>
           <td>Fullname</td>
