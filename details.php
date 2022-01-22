@@ -58,7 +58,7 @@ case"RSSB":
 	$percentage=100;
     break;					   
  default:
-  //echo "No Insurance";
+  //echo "No-insurance";
 }		
 if($client_id==0)
     {
@@ -129,7 +129,7 @@ $_SESSION['date']=$date;
          <br /><br /><br />
       <div  style="width: 99%; height: 690px; border: 0px solid #09F; position: absolute; background-color: #fff; left: 5px; top: 77px;">
          <!-- <a style="color:white;font-size:24px;" href="find.php"  onclick="return hs.htmlExpand(this, { objectType:'iframe'} )">
-            <div style="position:absolute;border-radius:5px 5px 0px 0px;border-bottom:0px;width:430px;border-top:1px solid #09F;border-left:1px solid #09F;border-right:1px solid #09F;height:44px;background-color:#999;left:1290px;top:23px;z-index:1;">
+            <div style="position:absolute;border-radius:87px 5px 0px 0px;border-bottom:0px;width:430px;border-top:1px solid #09F;border-left:1px solid #09F;border-right:1px solid #09F;height:44px;background-color:#999;left:1290px;top:23px;z-index:1;">
                <center><img src="img/find.png" width="24" height="24" />
                Find a patient</center>
             </div>
