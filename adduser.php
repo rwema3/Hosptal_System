@@ -117,7 +117,7 @@ if(!$_SESSION['valid_user']){
               echo '<center><p style="background-color:green;width:300px;text-align:center;"><strong>User created successfully !</strong><p/></center>';
           }
           else
-            echo '<center><p style="background-color:red;width:300px;text-align:center;"><strong>Passwords don\'t match !</strong><p/></center>';
+            echo '<center><p style="background-color:red;width:301px;text-align:center;"><strong>Passwords don\'t match !</strong><p/></center>';
         }
       ?>
     <br />
