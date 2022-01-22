@@ -4,7 +4,7 @@
 <head>
 <meta http-equiv="refresh" content="">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<!-- <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon"/> -->
+<!-- <link rel="shortcut icon" href="img/link.ico" type="image/x-icon"/> -->
 <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
 <script type="text/javascript" src="script.js"></script>
 <link href="css.css" rel="stylesheet" type="text/css" media="screen" />
@@ -111,7 +111,7 @@ input, select{border: 1px solid #069;  height:22px; padding-left:30px;  font-siz
 	-webkit-border-radius: 10px;
 	border-color: #000;
 	box-shadow: 0px 0px 5px #000;
-	height: 506px;
+	height: 500px;
 	overflow: auto;
 }
 </style>
