@@ -39,7 +39,7 @@ $period=$_GET['p'];
     <td  scope="col">COST FOR OTHER CONSUMABLES</td > -->
     <td  scope="col">COST FOR MEDECINES</td >
     <td  scope="col">TOTAL AMOUNT</td >
-    <td  scope="col">50%</td >
+    <td  scope="col">51%</td >
     <td  scope="col">50%</td >
   </tr>  
   <?php
