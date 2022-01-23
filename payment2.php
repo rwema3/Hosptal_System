@@ -107,7 +107,7 @@ input, select{border: 1px solid #069;  height:17px; padding-left:30px;  font-siz
     </td>
     <td>
 <!-- <form action="order_process.php?amount=<?php echo $amount; ?>" method="POST">
-      <button class="button">credit card</button>
+      <button class="button">credit card for paying</button>
       
       </form> -->
 
