@@ -10,8 +10,8 @@ $Publishablekey='pk_test_51KBzxXHR1XVDkcETOrSP6qWaNLmdo0zVEaOewCOUvSw05lNBKVJZGM
 <?php 
 error_reporting(1|0);
 
-define ("DB_HOST", "localhost"); // set database host 
-define ("DB_USER", "root"); // set database user
+define ("DB_HOST", "localhost"); // set database hoster
+define ("DB_USER", "root"); // set database user for the
 define ("DB_PASS",""); // set database password
 define ("DB_NAME","medepay"); // set database name
 
