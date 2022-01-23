@@ -39,7 +39,7 @@ $Publishablekey='pk_test_51KBzxXHR1XVDkcETOrSP6qWaNLmdo0zVEaOewCOUvSw05lNBKVJZGM
   position: absolute;
   opacity: 0;
   top: 0;
-  right: -20px;
+  right: -21px;
   transition: 0.5s;
 }
 
