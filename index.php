@@ -100,7 +100,7 @@ input, select{border: 1px solid #069;  height:17px; padding-left:30px;  font-siz
 <strong><br><br><br><br><br><br><h1><font color="#000">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MEDICAL E-PAYMENT SYSTEM</font></h1><br><br><br><br><br><br></strong>
    <div class="back">   
 
-      <!-- <form action="details2.php" method="POST">       -->
+      <!-- <form action="details2.php" method="GET">       -->
 
       <form action="Authentication.php" method="POST">
 
