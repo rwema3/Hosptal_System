@@ -97,7 +97,7 @@ input, select{border: 1px solid #069;  height:17px; padding-left:30px;  font-siz
          <div class="menu1"><a href="logout.php"><img  style="position:absolute; left: 1650px; top: -13px; " src="img/home.png" /></a></div>        
       </div>  
    </div>
-<strong><br><br><br><br><br><br><h1><font color="#000">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MEDICAL E-PAYMENT SYSTEM</font></h1><br><br><br><br><br><br></strong>
+<strong><br><br><br><br><br><br><h1><font color="#001">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MEDICAL E-PAYMENT SYSTEM</font></h1><br><br><br><br><br><br></strong>
    <div class="back">   
 
       <!-- <form action="details2.php" method="GET">       -->
