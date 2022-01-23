@@ -74,7 +74,7 @@ $db = mysqli_select_db($link,DB_NAME) or die("Couldn't select database");
   width: auto;
   transition: all 0.5s;
   cursor: pointer;
-  margin: 2px;
+  margin: 1px;
   background-image:url(img/print-button.png);
   background-repeat:no-repeat;
 }
@@ -89,7 +89,7 @@ $db = mysqli_select_db($link,DB_NAME) or die("Couldn't select database");
   right: 0;
 }
 .test:hover{ background-color:#F4F4F4;}
-input, select{border: 1px solid #069;  height:17px; padding-left:30px;  font-size:16px;}
+input, select{border: 1px solid #069;  height:16px; padding-left:30px;  font-size:16px;}
 </style>
 </head>
 <body>
