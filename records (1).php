@@ -123,7 +123,7 @@
                   //                       echo'<td class="cent">'.$defrowpe['unityp'].'</td>';
                   //                       $t=$defrowpe['quantity']*$defrowpe['unityp'];
                   //                       echo'<td class="cent">'.$t.'</td>'; 
-                  //                       echo '<input type="hidden" name="order" value="'.$defrowpe['order_id'].'">';
+                  //                       echo '<input input types="hidden" name="order" value="'.$defrowpe['order_id'].'">';
                   //                             echo '<input type="hidden" name="client2" value="'.$id.'">';
                   //                         echo'<td class="cent">'.$defrowpe['date'].'</td>';
                   //                       echo'<td class="cent">'.$defrowpe['time'].'</td>';
