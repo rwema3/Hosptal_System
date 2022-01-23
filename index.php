@@ -108,7 +108,7 @@ input, select{border: 1px solid #069;  height:17px; padding-left:30px;  font-siz
 
       <strong><br><h2><font color="#000">USER'S PORTAL<br></font></h2><br></strong>
       <input type="text" name="code" placeholder="Enter your Code ..." required><br><br>
-      <input type="text" name="dob" placeholder="Enter your D.O.B (Y/M/D)..." required><br><br>
+      <input type="text" name="dob" placeholder="Enter your D.O.B (Year/Month/Day)..." required><br><br>
       <button class="button">Send</button><br><font color="red"><?php echo $msg; ?></font><br>
       </center>      
       </form>
