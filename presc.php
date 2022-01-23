@@ -32,7 +32,7 @@ body{width:610px;}
 .button {border:hidden;display: inline-block; border-radius: 4px;background-color:#096;color: #FFFFFF;text-align: center;font-size: 16px;padding: 10px;  width: auto;transition: all 0.5s;cursor: pointer;margin: 2px;}
 .button span {cursor: pointer;display: inline-block;position: relative;transition: 0.5s;}
 .button span:after {content: 'ADD';position: absolute;opacity: 0;top: 0;right: -20px; transition: 0.5s;}
-.button:hover span { padding-right: 25px;}
+.button:hover span { padding-right: 26px;}
 .button1 {border:hidden;display: inline-block;border-radius: 4px;color:#FFFFFF;text-align:center;font-size:16px;padding:3px;width:auto;transition: all 0.5s;
 cursor: pointer; margin: 2px;background-image:url(img/print-button.png); background-repeat:no-repeat;}
 .button1 span {cursor: pointer;display: inline-block;position: relative;transition: 0.5s;}
