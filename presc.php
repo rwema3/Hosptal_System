@@ -86,7 +86,7 @@ if(isset($_POST['date']))
 }
   ?>
 
-<div style="position: absolute; height: 1000px; overflow: auto; height: 242px; background-color: #EAF4F4; width: 658px; left: 462px; top: 10px;";>
+<div style="position: absolute; height: 1001px; overflow: auto; height: 242px; background-color: #EAF4F4; width: 658px; left: 462px; top: 10px;";>
 <?php
 echo'<form action="presc.php?id='.$id.'&insu='.$insu.'&date='.$date.'" method="post">';
 $last=0;
