@@ -1,5 +1,5 @@
 <?php
-//require ('stripe/config.php');
+//require ('stripe/link.php');
 $amount=$_GET['amount'];
 $cname=$_POST['customer_name'];
 $Publishablekey='pk_test_51KBzxXHR1XVDkcETOrSP6qWaNLmdo0zVEaOewCOUvSw05lNBKVJZGMMHmu3nI6zf2xaUpWp7l5g537eRjICoxWOv00NsKOshw3';
