@@ -99,7 +99,7 @@ $retvalfac = mysqli_query($link,$facture);
 if(! $retvalfac )	{ die('Could not get data: ' . mysqli_error($link)); }    
 while($rowfac = mysqli_fetch_array($retvalfac, MYSQLI_ASSOC))
 		{						
-		// if ($rowfac['type']=='laboratoire')	
+		// if ($rowfac['typescript']=='laboratoire')	
 		// 	  {
 				$lab=$rowfac['quantity']*$rowfac['unityp'];  
 				$tlab+=$lab; 				
