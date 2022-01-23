@@ -62,7 +62,7 @@ if(!empty($_SESSION["shopping_cart"]))
 		}
 		.require
 		{
-			border:1px solid #FF0000;
+			border:2px solid #FF0000;
 			background-color: #cbd9ed;
 		}
 		</style>
@@ -74,7 +74,7 @@ if(!empty($_SESSION["shopping_cart"]))
 			<br />
 			<span id="message"></span>
 			<div class="panel panel-default">
-				<div class="panel-heading">Order Process</div>
+				<div class="panel-heading">Order Processes</div>
 				<div class="panel-body">
 					
 					<form METHOD="POST" id="order_process_form" action="payment2.php?amount=<?php echo $amount;?>" >
