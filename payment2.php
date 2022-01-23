@@ -137,7 +137,7 @@ $result = $link->query($query);
    data-name="<?php echo $cname; ?>"
     data-description="Py MedeSYST"
    //data-image=""
-    data-currency="Rwf"
+    data-currency="RFW"
     >
     </script>
 
