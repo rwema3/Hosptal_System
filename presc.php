@@ -126,7 +126,7 @@ $last=0;
 </tr>  
 <tr>
    <td align="right">Tip</td>
-   <td><input type="text" size="30" autocomplete="" name="tip" placeholder="" /></td>
+   <td><input type="text" size="31" autocomplete="" name="tip" placeholder="" /></td>
 </tr> 
 <tr>
 <td> </td>
