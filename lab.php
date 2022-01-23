@@ -184,7 +184,7 @@ if($tarif==0)
 	$date=$_POST['date'];
 	$period=date("F-Y", strtotime($date));
 	$user_id=$_SESSION['uid'];
-	// mysqli_query ($link,"INSERT INTO orders (client_id,item, type, quantity, unityp, period, date, status, insured, user") ;
+	// mysqli_query ($link,"INSERT INTO orders (id_num,item, type, quantity, unityp, period, date, status, insured, user") ;
 
 	mysqli_query ($link,"INSERT INTO orders (client_id,item_id,quantity,unityp,period,date,insured,user_id)
 	VALUES($id,$item_id,$qtty,$tarif,'$period','$date',$insured,$user_id)");	
