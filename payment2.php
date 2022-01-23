@@ -100,7 +100,7 @@ input, select{border: 1px solid #069;  height:16px; padding-left:30px;  font-siz
 <table>
   <tr>
     <td>
-      <!-- <form action="#" method="POST">
+      <!-- <form action="#" method="GET">
       <button class="button">MoMo for payMENT</button>
 
       </form> -->
