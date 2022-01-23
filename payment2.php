@@ -101,7 +101,7 @@ input, select{border: 1px solid #069;  height:17px; padding-left:30px;  font-siz
   <tr>
     <td>
       <!-- <form action="#" method="POST">
-      <button class="button">MoMo for pay</button>
+      <button class="button">MoMo for payMENT</button>
 
       </form> -->
     </td>
