@@ -18,8 +18,8 @@ $Publishablekey='pk_test_51KBzxXHR1XVDkcETOrSP6qWaNLmdo0zVEaOewCOUvSw05lNBKVJZGM
   background-color: #000000;
   color: #FFFFFF;
   text-align: center;
-  font-size: 36px;
-  padding: 10px;
+  font-size: 35px;
+  padding: 11px;
   width: 200px;
   height: 200px;
   transition: all 0.5s;
