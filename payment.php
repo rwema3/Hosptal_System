@@ -103,8 +103,8 @@ input, select{border: 1px solid #069;  height:17px; padding-left:30px;  font-siz
     src="https://checkout.stripe.com/checkout.js" class="stripe-button"
     data-key="<?php echo $Publishablekey ?>"
     data-amount="6000"
-   data-name="GISAGARA Sabine"
-    data-description="medEpay bill"
+   data-name="Programmer Rwema"
+    data-description="medEpay bill paymnent"
    //data-image=""
     data-currency="Rwf"
     >
