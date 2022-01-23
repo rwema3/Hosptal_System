@@ -135,7 +135,7 @@ $result = $link->query($query);
     data-key="<?php echo $Publishablekey ?>"
     data-amount="<?php echo $amount; ?>"
    data-name="<?php echo $cname; ?>"
-    data-description="medEpay bill"
+    data-description="Py MedeSYST"
    //data-image=""
     data-currency="Rwf"
     >
