@@ -59,7 +59,7 @@ $Publishablekey='pk_test_51KBzxXHR1XVDkcETOrSP6qWaNLmdo0zVEaOewCOUvSw05lNBKVJZGM
   width: auto;
   transition: all 0.5s;
   cursor: pointer;
-  margin: 2px;
+  margin: 3px;
   background-image:url(img/print-button.png);
   background-repeat:no-repeat;
 }
