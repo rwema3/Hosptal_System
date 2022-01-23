@@ -118,7 +118,7 @@ $last=0;
 </tr>      
 <tr>
    <td align="right">Quantity</td>
-   <td><input type="text" style="height:17px;" size="3" placeholder='' name="qtty" /></td>
+   <td><input type="text" style="height:17px;" size="4" placeholder='' name="qtty" /></td>
 </tr>          
 <tr>
    <td align="right">Dosage</td>
