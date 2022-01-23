@@ -70,7 +70,7 @@ $db = mysqli_select_db($link,DB_NAME) or die("Couldn't select database");
   color: #FFFFFF;
   text-align: center;
   font-size: 16px;
-  padding: 3px;
+  padding: 4px;
   width: auto;
   transition: all 0.5s;
   cursor: pointer;
@@ -82,7 +82,7 @@ $db = mysqli_select_db($link,DB_NAME) or die("Couldn't select database");
   cursor: pointer;
   display: inline-block;
   position: relative;
-  transition: 0.5s;
+  transition: 0.6s;
 }
 .button:hover span:after {
   opacity: 1;
