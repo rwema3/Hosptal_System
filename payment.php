@@ -37,7 +37,7 @@ $Publishablekey='pk_test_51KBzxXHR1XVDkcETOrSP6qWaNLmdo0zVEaOewCOUvSw05lNBKVJZGM
 .button span:after {
   content: '>>';
   position: absolute;
-  opacity: 0;
+  opacity: 1;
   top: 0;
   right: -21px;
   transition: 0.5s;

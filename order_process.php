@@ -70,7 +70,7 @@ if(!empty($_SESSION["shopping_cart"]))
 	<body>
 		<div class="container">
 			<br />
-			<h3 align="center"><a href="#">medEpay</a></h3>
+			<h3 align="center"><a href="#">MedEpay</a></h3>
 			<br />
 			<span id="message"></span>
 			<div class="panel panel-default">
