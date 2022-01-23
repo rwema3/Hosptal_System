@@ -75,7 +75,7 @@ body{width:610px;}
   width: auto;
   transition: all 0.5s;
   cursor: pointer;
-  margin: 2px;
+  margin: 3px;
   background-image:url(img/print-button.png);
   background-repeat:no-repeat;
 }
@@ -91,7 +91,7 @@ body{width:610px;}
   right: 0;
 }
 .test:hover{ background-color:#F4F4F4;}
-input, select{border: 1px solid #069;  height:17px; padding-left:30px;  font-size:16px;}
+input, select{border: 2px solid #069;  height:17px; padding-left:30px;  font-size:16px;}
 
 
 </style>
