@@ -58,7 +58,7 @@ if(!empty($_SESSION["shopping_cart"]))
 		.popover
 		{
 		    width: 100%;
-		    max-width: 801px;
+		    max-width: 800px;
 		}
 		.require
 		{
